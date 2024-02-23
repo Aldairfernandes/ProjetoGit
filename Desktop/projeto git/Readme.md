@@ -6,3 +6,4 @@ Aprendendo a usar Github
 gkgkgkgkgnkdk
 testando a funcionalidade
 Quebrando a cabeça ldldkfjfff
+Crie uma pasta na area de trabalho do Windows
